@@ -1,4 +1,4 @@
-OpenCv
+OpenCv ---
 Tkinter
 Numpy
 Pyzbar
