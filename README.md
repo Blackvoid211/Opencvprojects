@@ -1,0 +1,9 @@
+OpenCv
+Tkinter
+Numpy
+Pyzbar
+difflib
+filecmp
+pymupdf
+pillow
+lxml
